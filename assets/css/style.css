@@ -1,4 +1,6 @@
-.navbarSelection {
-    background-color: white;
-    color: teal;
+.jumbotron {
+    background-color: rgb(24, 1, 36);
+    color: white;
+    text-align: center;
+    font-family: 'Mukta', sans-serif;
 }
