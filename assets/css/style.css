@@ -10,3 +10,12 @@
 .aboutMe {
     font-size: 25px;
 }
+.card1 {
+    background-color: black;
+    color: white;
+    border: none;
+}
+.btn1 {
+    background-color: white;
+    color: black;
+}
